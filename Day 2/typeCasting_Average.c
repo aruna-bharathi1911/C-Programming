@@ -11,8 +11,7 @@ int main(){
     average=(float)total/3;           //average in float
     printf("\nThe average (Float): %f",average);
 
-    average=total/3;      //truncated value not roundoff
-    printf("\nThe average (Truncated to int): %d",(int)average);
+    printf("\nThe average (Truncated to int): %d",(int)average);   //truncated value not roundoff
 
     return 0;
 
