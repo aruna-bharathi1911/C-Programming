@@ -20,5 +20,6 @@ int main(){
     int new=5;
     int result=new++ + ++new;      //combined
     printf("\n%d",result);
+    
     return 0;
 }
