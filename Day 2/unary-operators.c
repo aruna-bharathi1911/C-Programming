@@ -18,8 +18,8 @@ int main(){
     printf("\n%d",++n2);    //prints 6 stores n2=6
 
     int new=5;
-    int result=new++ + ++new;      //combined
+    int result=new++ + ++new;      //combined expression 
     printf("\n%d",result);
-    
+
     return 0;
 }
