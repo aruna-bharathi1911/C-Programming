@@ -1,0 +1,16 @@
+
+
+1. ()                      — parentheses (highest)
+2. ++ -- (unary), !, ~     — unary operators
+3. * / %                   — multiplicative
+4. + -                     — additive
+5. << >>                   — bitwise shift
+6. < <= > >=                — relational
+7. == !=                   — equality
+8. &                       — bitwise AND
+9. ^                       — bitwise XOR
+10. |                      — bitwise OR
+11. &&                     — logical AND
+12. ||                     — logical OR
+13. ?:                     — ternary
+14. = += -= etc.            — assignment (lowest)
