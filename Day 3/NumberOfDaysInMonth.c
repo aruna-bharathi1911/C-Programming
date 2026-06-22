@@ -7,7 +7,7 @@ int main(){
     printf("Enter Month(Number):");
     scanf("%d",&month);
     if(year%4==0 && year%100!=0){
-     isleap=1;
+      isleap=1;
     }
     else if(year%400==0){
     isleap=1;
